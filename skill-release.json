@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "my-comment-evidence-dsh",
+  "source_version": "c2e33654b9ad0b891d9f45626e108de6ee6322acf17d7bb0fa15fd83d6f10c5f",
+  "origin": "original",
+  "stage": "saved",
+  "upstream": "",
+  "files": {
+    "README.md": "f54ce7d08335e99a2e8c3bcfa7b2960bab92f51a15efcda07e332ada8052e9a2",
+    "SKILL.md": "59cc04613772b7078bfec5bc196f757ebe27be0963e5f07fe0b2a1150cb5beef",
+    "references/example.md": "b03999c7d08becd978e887ea68caff57f69ad2a3e5156ec5c36c8f30e8845096"
+  }
+}
